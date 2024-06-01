@@ -38,7 +38,7 @@ const Index = () => {
           </Text>
           <HStack spacing={8} justify="center" flexWrap="wrap">
             <Box maxW="sm" borderWidth="1px" borderRadius="md" overflow="hidden" p={4} textAlign="center">
-              <Image src="https://images.unsplash.com/photo-1679749176733-fa62972cc42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxibXclMjBkaWFnbm9zdGljc3xlbnwwfHx8fDE3MTcyNjI3NzZ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Diagnostyka BMW" borderRadius="md" mb={4} />
+              <Image src="https://images.unsplash.com/photo-1679749176733-fa62972cc42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxibXclMjBkaWFnb3N0aWNzfGVufDB8fHx8MTcxNzI2Mjc3Nnw&ixlib=rb-4.0.3&q=80&w=1080" alt="Diagnostyka BMW" borderRadius="md" mb={4} />
               <Text fontSize="xl" fontWeight="bold" color="blue.600">
                 Diagnostyka
               </Text>
@@ -52,7 +52,7 @@ const Index = () => {
               <Text color="gray.600">Personalizacja ustawień i funkcji pojazdu.</Text>
             </Box>
             <Box maxW="sm" borderWidth="1px" borderRadius="md" overflow="hidden" p={4} textAlign="center">
-              <Image src="https://images.unsplash.com/photo-1679749176733-fa62972cc42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxibXclMjBwcm9ncmFtbWluZ3xlbnwwfHx8fDE3MTcyNjY0MDJ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Programowanie BMW" borderRadius="md" mb={4} />
+              <Image src="https://images.unsplash.com/photo-1515569067071-ec3b51335dd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxibXclMjBwcm9ncmFtbWluZ3xlbnwwfHx8fDE3MTcyNjY0MDJ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Programowanie BMW" borderRadius="md" mb={4} />
               <Text fontSize="xl" fontWeight="bold" color="blue.600">
                 Programowanie
               </Text>
